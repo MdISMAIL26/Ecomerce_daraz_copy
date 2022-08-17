@@ -67,6 +67,11 @@ nav ul li a:hover {
     border-radius: 2px;
 }
 
+.serch button{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+
+}
+
 footer{
     height: 12vh;
     font-family: 'Edu VIC WA NT Beginner', cursive;
@@ -76,4 +81,10 @@ footer{
 
 .container{
     min-height: calc(100vh);
+}
+
+.slider {
+    margin: auto;
+    width: 100vw;
+
 }
